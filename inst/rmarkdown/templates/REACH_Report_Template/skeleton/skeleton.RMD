@@ -1,0 +1,19 @@
+---
+title: "Blank Report Temaplate"
+output: 
+  word_document:
+    reference_docx: Blank-doc-template.docx
+    toc: TRUE
+---
+
+```{r set-up, message = FALSE, echo = FALSE}
+knitr::opts_chunk$set(cache = TRUE, fig.align = 'center', message = FALSE, echo = FALSE, warning = FALSE)
+```
+
+## Introduction
+
+
+## Methodology
+
+
+## Findings
