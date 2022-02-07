@@ -10,8 +10,6 @@ render_report <- function(x, dir, filename){
 }
 
 
-# Second Function - :) just for fun and learning pull request
-
 
 
 
